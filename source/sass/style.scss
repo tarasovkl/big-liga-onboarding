@@ -13,11 +13,14 @@
 @import "global/reboot";
 @import "global/utils";
 @import "global/container";
+@import "global/animations";
 
 // Blocks
 //---------------------------------
 
 @import "blocks/header";
+@import "blocks/main";
+@import "blocks/load";
 
 
 // используйте это для отключения ховеров на тач устройствах
